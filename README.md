@@ -12,7 +12,7 @@ $ cd <your catkin_workspace> && catkin_make
 
 ## How to use
 
-Run [rosmsg_player](https://github.com/dhchung/rosmsg_player), and run lidar_to_image node
+Run [rosmsg_player](https://github.com/dhchung/rosmsg_player) and run lidar_to_image node
 
 ```sh
 $ rosrun rosmsg_player rosmsg_player
